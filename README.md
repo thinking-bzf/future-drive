@@ -12,6 +12,8 @@ npm run serve
 
 ### 图示
 
+![Start](https://github.com/thinking-bzf/future-drive/blob/main/demo/Start.webp)
+
 ![Select Config](https://github.com/thinking-bzf/future-drive/blob/main/demo/SelectConfig.webp)
 
 ![Generated Image](https://github.com/thinking-bzf/future-drive/blob/main/demo/GenenrateImage.webp)
